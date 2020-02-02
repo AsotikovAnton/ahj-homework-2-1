@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AsotikovAnton/ahj-homework-1.git"
+    "url": "git+https://github.com/AsotikovAnton/ahj-homework-2-1.git"
   },
   "author": "grudge",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AsotikovAnton/ahj-homework-1/issues"
+    "url": "https://github.com/AsotikovAnton/ahj-homework-2-1/issues"
   },
-  "homepage": "https://github.com/AsotikovAnton/ahj-homework-1#readme",
+  "homepage": "https://github.com/AsotikovAnton/ahj-homework-2-1#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.3",
     "@babel/core": "^7.8.3",
